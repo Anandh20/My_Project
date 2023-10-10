@@ -1,2 +1,2 @@
-# AI_phase-1
+# my project
 AI-phase1! 
